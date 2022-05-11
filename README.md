@@ -1,3 +1,7 @@
+# NEW REPOSITORY LOCATION
+
+This repository has been moved! It is now hosted under the `tastyware` organization here: https://github.com/tastyware/tastyworks-api
+
 # Tastyworks API (Unofficial)
 
 A simple, async-based, reverse-engineered API for tastyworks. This will allow you to create trading algorithms for whatever strategies you may have.
